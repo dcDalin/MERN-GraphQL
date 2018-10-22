@@ -1,0 +1,12 @@
+{
+  "name": "MERN-GraphQL",
+  "version": "1.0.0",
+  "description": "Fullstack ",
+  "main": "src/index.js",
+  "repository": "https://github.com/dcDalin/MERN-GraphQL.git",
+  "author": "dc_dalin",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.7"
+  }
+}
