@@ -1,0 +1,10 @@
+{
+  "name": "MERN-GraphQL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dcDalin/MERN-GraphQL.git",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^14.0.2"
+  }
+}
